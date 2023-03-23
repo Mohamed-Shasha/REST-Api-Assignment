@@ -1,0 +1,9 @@
+{
+  "name": "flaskProject",
+  "version": "1.0.0",
+  "dependencies": {
+    "@hprose/rpc-node": "^3.0.12",
+    "hprose": "^2.0.51",
+    "ip": "^1.1.8"
+  }
+}
